@@ -7,4 +7,4 @@ A lightweight RESTful API for converting Philippine Peso (PHP) to US Dollar (USD
 - Convert Philippine Peso (PHP) to US Dollar (USD)
 - Simple and fast JSON API
 - Optional query for historical or fixed rate
-- Built with LARAVEL
+- Built with PHP/LARAVEL
